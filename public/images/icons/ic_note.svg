@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="25.57" viewBox="0 0 24 25.57">
+  <g id="Group_3" data-name="Group 3" transform="translate(-292 -471.43)">
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(292 473)" fill="#fff" stroke="#afbccc" stroke-linejoin="round" stroke-width="1.5">
+      <rect width="24" height="24" rx="5" stroke="none"/>
+      <rect x="0.75" y="0.75" width="22.5" height="22.5" rx="4.25" fill="none"/>
+    </g>
+    <path id="Path_6" data-name="Path 6" d="M295.494,482.253h15.525" transform="translate(1)" fill="none" stroke="#afbccc" stroke-width="1.5"/>
+    <path id="Path_7" data-name="Path 7" d="M295.494,486.729h6.29" transform="translate(1)" fill="none" stroke="#afbccc" stroke-width="1.5"/>
+    <path id="Path_8" data-name="Path 8" d="M295.494,486.729h6.29" transform="translate(1 4)" fill="none" stroke="#afbccc" stroke-width="1.5"/>
+    <path id="Path_9" data-name="Path 9" d="M295.494,486.729h6.29" transform="translate(10.236)" fill="none" stroke="#afbccc" stroke-width="1.5"/>
+    <path id="Path_10" data-name="Path 10" d="M295.494,486.729h6.29" transform="translate(10.236 4)" fill="none" stroke="#afbccc" stroke-width="1.5"/>
+    <path id="Path_11" data-name="Path 11" d="M298.638,471.43v2.38" transform="translate(1)" fill="none" stroke="#afbccc" stroke-width="1.5"/>
+    <path id="Path_12" data-name="Path 12" d="M307.874,471.43V473.7" fill="none" stroke="#afbccc" stroke-width="1.5"/>
+  </g>
+</svg>
