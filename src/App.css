@@ -22,7 +22,7 @@ p,td,th{
 .cursor{
   cursor: pointer;
 }
-.menu-active:hover{
+.menu-active{
   border-left: 3px solid #0bb634 !important;
   transition: 0.5s;
   cursor: pointer;
@@ -48,4 +48,13 @@ p,td,th{
 }
 ::-webkit-scrollbar {
   width: 0px;
+}
+.active-menu-mb{
+  border-top: 3px solid #0bb634 !important;
+  transition: 0.5s;
+  background: #fbfbfc;
+}
+a,a:hover{
+  text-decoration: none !important;
+  color: black;
 }
