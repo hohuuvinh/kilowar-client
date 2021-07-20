@@ -7,6 +7,7 @@ import Token from './components/pages/Token';
 import WhiteList from './components/pages/WhiteList';
 import WhitePaper from './components/pages/WhitePaper';
 import JoinWhiteList from './components/pages/JoinWhiteList';
+import InviteTracker from './components/pages/InviteTracker';
 import { HashRouter as Router, Route,Switch} from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar';
 import React, { useState } from 'react'
@@ -53,6 +54,10 @@ function App() {
         </Route>
         <Route path="/join">
           <JoinWhiteList onProgress={onProgress}/>
+        </Route>
+
+        <Route path="/invite-tracker">
+          <InviteTracker onProgress={onProgress}/>
         </Route>
         </Switch>
       </div>

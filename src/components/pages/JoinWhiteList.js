@@ -49,7 +49,7 @@ function JoinWhiteList({ onProgress }) {
                                             <div className="mt-3 op" style={{ width: '300px', height: '40px', borderRadius: '8px' }}>
                                                 <input value={values.waxAccount} onChange={handleChange} className="op pl-2" type="text" placeholder="Enter wax account" style={{ width: '100%', height: '100%', outline: 'none', border: 0, borderRadius: '8px' }} />
                                             </div>
-                                            <button disabled={values.waxAccount.length < 9} className="btn bg-bt text-white mb-0 mt-3 ml-2" style={{ borderRadius: '10px', height: '40px' }} ><p>Join</p></button>
+                                            <button disabled={values.waxAccount.length < 8} className="btn bg-bt text-white mb-0 mt-3 ml-2" style={{ borderRadius: '10px', height: '40px' }} ><p>Join</p></button>
                                         </div>
                                     </form>
                                 </div> : <div>
@@ -85,7 +85,7 @@ function JoinWhiteList({ onProgress }) {
                                             <div className="mt-3 op" style={{ width: '300px', height: '40px', borderRadius: '8px' }}>
                                                 <input value={values.waxAccount} onChange={handleChange} className="op pl-2" type="text" placeholder="Enter wax account" style={{ width: '100%', height: '100%', outline: 'none', border: 0, borderRadius: '8px' }} />
                                             </div>
-                                            <button disabled={values.waxAccount.length < 9} className="btn bg-bt text-white mb-0 mt-3 ml-2" style={{ borderRadius: '10px', height: '40px' }} ><p>Join</p></button>
+                                            <button disabled={values.waxAccount.length < 8} className="btn bg-bt text-white mb-0 mt-3 ml-2" style={{ borderRadius: '10px', height: '40px' }} ><p>Join</p></button>
                                         </div>
                                     </form>
                                 </div> : <div>
